@@ -1,0 +1,14 @@
+C:\Users\Jorge\source\repos\Compra y venta\bin\Debug\CompraVenta.mdf
+C:\Users\Jorge\source\repos\Compra y venta\bin\Debug\CompraVenta_log.ldf
+C:\Users\Jorge\source\repos\Compra y venta\bin\Debug\Compra y venta.exe.config
+C:\Users\Jorge\source\repos\Compra y venta\bin\Debug\Compra y venta.exe
+C:\Users\Jorge\source\repos\Compra y venta\bin\Debug\Compra y venta.pdb
+C:\Users\Jorge\source\repos\Compra y venta\obj\Debug\Compra y venta.csprojAssemblyReference.cache
+C:\Users\Jorge\source\repos\Compra y venta\obj\Debug\Compra_y_venta.COMPRAS_FORM.resources
+C:\Users\Jorge\source\repos\Compra y venta\obj\Debug\Compra_y_venta.MAIN_SCREEN.resources
+C:\Users\Jorge\source\repos\Compra y venta\obj\Debug\Compra_y_venta.Properties.Resources.resources
+C:\Users\Jorge\source\repos\Compra y venta\obj\Debug\Compra y venta.csproj.GenerateResource.cache
+C:\Users\Jorge\source\repos\Compra y venta\obj\Debug\Compra y venta.exe
+C:\Users\Jorge\source\repos\Compra y venta\obj\Debug\Compra y venta.pdb
+C:\Users\Jorge\source\repos\Compra y venta\obj\Debug\Compra_y_venta.STOCK_FORM.resources
+C:\Users\Jorge\source\repos\Compra y venta\obj\Debug\Compra_y_venta.VENTAS_FORM.resources
